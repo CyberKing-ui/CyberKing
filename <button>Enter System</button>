@@ -1,7 +1,0 @@
-<button onclick="enterSite()">Enter System</button>
-
-<script>
-function enterSite() {
-window.location.href="system.html";
-}
-</script>
